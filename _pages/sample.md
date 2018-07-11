@@ -147,7 +147,7 @@ term/definition pair to spread things out more.)
 Here's a "line block":
 
 | Line one
-|   Line too
+|   Line two
 | Line tree
 
 and images can be specified like so:
